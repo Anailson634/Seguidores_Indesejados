@@ -1,12 +1,12 @@
-#Proposito
+#Proposito#
 Este pequeno script verifica quem esta te seguindo de volta
 
-#Dependencias
-1. Selenium
-2. json
-3. time
+#Dependencias#
+1. **Selenium**
+2. **json**
+3. **time**
 
-#Como usar
+#Como usar#
 1. Abra o Main.py
 2. Coloque seu usuario e senha nos campos "nome" e "senha"
 3. Rode o codigo, sempre que abrir os pop-up de perfis, faça o scroll manualmente ate o fim da lista
